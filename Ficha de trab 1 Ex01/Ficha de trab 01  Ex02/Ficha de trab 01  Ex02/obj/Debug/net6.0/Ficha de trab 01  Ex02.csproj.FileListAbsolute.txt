@@ -1,0 +1,14 @@
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 01  Ex02\Ficha de trab 01  Ex02\obj\Debug\net6.0\Ficha de trab 01  Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 01  Ex02\Ficha de trab 01  Ex02\obj\Debug\net6.0\Ficha de trab 01  Ex02.AssemblyInfoInputs.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 01  Ex02\Ficha de trab 01  Ex02\obj\Debug\net6.0\Ficha de trab 01  Ex02.AssemblyInfo.cs
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 01  Ex02\Ficha de trab 01  Ex02\obj\Debug\net6.0\Ficha de trab 01  Ex02.csproj.CoreCompileInputs.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 01  Ex02\Ficha de trab 01  Ex02\bin\Debug\net6.0\Ficha de trab 01  Ex02.exe
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 01  Ex02\Ficha de trab 01  Ex02\bin\Debug\net6.0\Ficha de trab 01  Ex02.deps.json
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 01  Ex02\Ficha de trab 01  Ex02\bin\Debug\net6.0\Ficha de trab 01  Ex02.runtimeconfig.json
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 01  Ex02\Ficha de trab 01  Ex02\bin\Debug\net6.0\Ficha de trab 01  Ex02.dll
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 01  Ex02\Ficha de trab 01  Ex02\bin\Debug\net6.0\Ficha de trab 01  Ex02.pdb
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 01  Ex02\Ficha de trab 01  Ex02\obj\Debug\net6.0\Ficha de trab 01  Ex02.dll
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 01  Ex02\Ficha de trab 01  Ex02\obj\Debug\net6.0\refint\Ficha de trab 01  Ex02.dll
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 01  Ex02\Ficha de trab 01  Ex02\obj\Debug\net6.0\Ficha de trab 01  Ex02.pdb
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 01  Ex02\Ficha de trab 01  Ex02\obj\Debug\net6.0\Ficha de trab 01  Ex02.genruntimeconfig.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 01  Ex02\Ficha de trab 01  Ex02\obj\Debug\net6.0\ref\Ficha de trab 01  Ex02.dll

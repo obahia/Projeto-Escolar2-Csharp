@@ -13,9 +13,10 @@
             nomeE = Console.ReadLine();
             Console.WriteLine("\nInsira o nome da sua disciplina: ");
             nomeD = Console.ReadLine();
-            Console.WriteLine("\n\nNome do aluno: \n\n", nomeA);
-            Console.WriteLine("Nome da escola: \n\n", nomeE);
-            Console.WriteLine("Nome da disciplina: {2}\n\n", nomeD);
+            Console.Clear();
+            Console.WriteLine("\n\nNome do aluno: {0}\n\n", nomeA);
+            Console.WriteLine("\nNome da escola: {0}\n\n", nomeE);
+            Console.WriteLine("\nNome da disciplina: {0}\n\n", nomeD);
 
         }
     }

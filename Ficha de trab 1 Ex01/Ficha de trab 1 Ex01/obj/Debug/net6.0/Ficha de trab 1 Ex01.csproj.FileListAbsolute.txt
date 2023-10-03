@@ -1,0 +1,14 @@
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 1 Ex01\bin\Debug\net6.0\Ficha de trab 1 Ex01.exe
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 1 Ex01\bin\Debug\net6.0\Ficha de trab 1 Ex01.deps.json
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 1 Ex01\bin\Debug\net6.0\Ficha de trab 1 Ex01.runtimeconfig.json
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 1 Ex01\bin\Debug\net6.0\Ficha de trab 1 Ex01.dll
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 1 Ex01\bin\Debug\net6.0\Ficha de trab 1 Ex01.pdb
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 1 Ex01\obj\Debug\net6.0\Ficha de trab 1 Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 1 Ex01\obj\Debug\net6.0\Ficha de trab 1 Ex01.AssemblyInfoInputs.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 1 Ex01\obj\Debug\net6.0\Ficha de trab 1 Ex01.AssemblyInfo.cs
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 1 Ex01\obj\Debug\net6.0\Ficha de trab 1 Ex01.csproj.CoreCompileInputs.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 1 Ex01\obj\Debug\net6.0\Ficha de trab 1 Ex01.dll
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 1 Ex01\obj\Debug\net6.0\refint\Ficha de trab 1 Ex01.dll
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 1 Ex01\obj\Debug\net6.0\Ficha de trab 1 Ex01.pdb
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 1 Ex01\obj\Debug\net6.0\Ficha de trab 1 Ex01.genruntimeconfig.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Ficha de trab 1 Ex01\Ficha de trab 1 Ex01\obj\Debug\net6.0\ref\Ficha de trab 1 Ex01.dll
