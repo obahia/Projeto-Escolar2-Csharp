@@ -19,6 +19,7 @@
             Console.WriteLine("\nA subtracao: {0}", n1 - n2);
             Console.WriteLine("\nA media: {0}", (n1 + n2) / 2);
             Console.WriteLine("\nO resto da divisao: {0}", n1 % n2);
+            Console.ReadLine();
 
 
         }
