@@ -1,0 +1,10 @@
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo-Azar\Jogo-Azar\bin\Debug\Jogo-Azar.exe.config
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo-Azar\Jogo-Azar\bin\Debug\Jogo-Azar.exe
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo-Azar\Jogo-Azar\bin\Debug\Jogo-Azar.pdb
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo-Azar\Jogo-Azar\obj\Debug\Jogo-Azar.csproj.AssemblyReference.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo-Azar\Jogo-Azar\obj\Debug\Jogo_Azar.Form1.resources
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo-Azar\Jogo-Azar\obj\Debug\Jogo_Azar.Properties.Resources.resources
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo-Azar\Jogo-Azar\obj\Debug\Jogo-Azar.csproj.GenerateResource.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo-Azar\Jogo-Azar\obj\Debug\Jogo-Azar.csproj.CoreCompileInputs.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo-Azar\Jogo-Azar\obj\Debug\Jogo-Azar.exe
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo-Azar\Jogo-Azar\obj\Debug\Jogo-Azar.pdb

@@ -1,0 +1,14 @@
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\TesteArray\TesteArray\bin\Debug\TesteArray.exe.config
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\TesteArray\TesteArray\bin\Debug\TesteArray.exe
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\TesteArray\TesteArray\bin\Debug\TesteArray.pdb
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\TesteArray\TesteArray\obj\Debug\TesteArray.csproj.AssemblyReference.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\TesteArray\TesteArray\obj\Debug\TesteArray.csproj.CoreCompileInputs.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\TesteArray\TesteArray\obj\Debug\TesteArray.exe
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\TesteArray\TesteArray\obj\Debug\TesteArray.pdb
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\TesteArray\TesteArray\obj\Debug\TesteArray.csproj.AssemblyReference.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\TesteArray\TesteArray\obj\Debug\TesteArray.csproj.CoreCompileInputs.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\TesteArray\TesteArray\obj\Debug\TesteArray.exe
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\TesteArray\TesteArray\obj\Debug\TesteArray.pdb
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\TesteArray\TesteArray\bin\Debug\TesteArray.exe.config
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\TesteArray\TesteArray\bin\Debug\TesteArray.exe
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\TesteArray\TesteArray\bin\Debug\TesteArray.pdb

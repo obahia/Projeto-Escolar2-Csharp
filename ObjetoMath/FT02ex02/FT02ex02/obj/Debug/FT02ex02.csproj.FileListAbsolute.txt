@@ -1,0 +1,7 @@
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\FT02ex02\FT02ex02\bin\Debug\FT02ex02.exe.config
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\FT02ex02\FT02ex02\bin\Debug\FT02ex02.exe
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\FT02ex02\FT02ex02\bin\Debug\FT02ex02.pdb
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\FT02ex02\FT02ex02\obj\Debug\FT02ex02.csproj.AssemblyReference.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\FT02ex02\FT02ex02\obj\Debug\FT02ex02.csproj.CoreCompileInputs.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\FT02ex02\FT02ex02\obj\Debug\FT02ex02.exe
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\FT02ex02\FT02ex02\obj\Debug\FT02ex02.pdb

@@ -1,0 +1,7 @@
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\ObjetoMath\bin\Debug\ObjetoMath.exe.config
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\ObjetoMath\bin\Debug\ObjetoMath.exe
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\ObjetoMath\bin\Debug\ObjetoMath.pdb
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\ObjetoMath\obj\Debug\ObjetoMath.csproj.AssemblyReference.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\ObjetoMath\obj\Debug\ObjetoMath.csproj.CoreCompileInputs.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\ObjetoMath\obj\Debug\ObjetoMath.exe
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\ObjetoMath\ObjetoMath\obj\Debug\ObjetoMath.pdb

@@ -1,0 +1,10 @@
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Galeria-Imagens\Galeria-Imagens\obj\Debug\Galeria-Imagens.csproj.AssemblyReference.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Galeria-Imagens\Galeria-Imagens\obj\Debug\Galeria_Imagens.Form1.resources
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Galeria-Imagens\Galeria-Imagens\obj\Debug\Galeria_Imagens.Properties.Resources.resources
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Galeria-Imagens\Galeria-Imagens\obj\Debug\Galeria-Imagens.csproj.GenerateResource.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Galeria-Imagens\Galeria-Imagens\obj\Debug\Galeria-Imagens.csproj.CoreCompileInputs.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Galeria-Imagens\Galeria-Imagens\bin\Debug\Galeria-Imagens.exe.config
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Galeria-Imagens\Galeria-Imagens\bin\Debug\Galeria-Imagens.exe
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Galeria-Imagens\Galeria-Imagens\bin\Debug\Galeria-Imagens.pdb
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Galeria-Imagens\Galeria-Imagens\obj\Debug\Galeria-Imagens.exe
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Galeria-Imagens\Galeria-Imagens\obj\Debug\Galeria-Imagens.pdb
