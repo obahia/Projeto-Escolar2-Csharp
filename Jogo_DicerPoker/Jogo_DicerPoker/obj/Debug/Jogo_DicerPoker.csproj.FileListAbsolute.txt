@@ -1,0 +1,10 @@
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo_DicerPoker\Jogo_DicerPoker\bin\Debug\Jogo_DicerPoker.exe.config
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo_DicerPoker\Jogo_DicerPoker\bin\Debug\Jogo_DicerPoker.exe
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo_DicerPoker\Jogo_DicerPoker\bin\Debug\Jogo_DicerPoker.pdb
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo_DicerPoker\Jogo_DicerPoker\obj\Debug\Jogo_DicerPoker.csproj.AssemblyReference.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo_DicerPoker\Jogo_DicerPoker\obj\Debug\Jogo_DicerPoker.Form1.resources
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo_DicerPoker\Jogo_DicerPoker\obj\Debug\Jogo_DicerPoker.Properties.Resources.resources
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo_DicerPoker\Jogo_DicerPoker\obj\Debug\Jogo_DicerPoker.csproj.GenerateResource.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo_DicerPoker\Jogo_DicerPoker\obj\Debug\Jogo_DicerPoker.csproj.CoreCompileInputs.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo_DicerPoker\Jogo_DicerPoker\obj\Debug\Jogo_DicerPoker.exe
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Jogo_DicerPoker\Jogo_DicerPoker\obj\Debug\Jogo_DicerPoker.pdb

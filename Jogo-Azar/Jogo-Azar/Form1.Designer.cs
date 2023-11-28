@@ -37,6 +37,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.PicBox = new System.Windows.Forms.PictureBox();
             this.NUCREDS = new System.Windows.Forms.Label();
+            this.lblVi = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.PicBox)).BeginInit();
             this.SuspendLayout();
             // 
@@ -135,11 +136,25 @@
             this.NUCREDS.Text = "10";
             this.NUCREDS.Click += new System.EventHandler(this.label5_Click_1);
             // 
+            // lblVi
+            // 
+            this.lblVi.AutoSize = true;
+            this.lblVi.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblVi.ForeColor = System.Drawing.Color.Black;
+            this.lblVi.Location = new System.Drawing.Point(12, 331);
+            this.lblVi.Name = "lblVi";
+            this.lblVi.Size = new System.Drawing.Size(292, 31);
+            this.lblVi.TabIndex = 8;
+            this.lblVi.Text = "Número de vitórias: 0";
+            this.lblVi.Click += new System.EventHandler(this.lblVi_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(784, 461);
+            this.Controls.Add(this.lblVi);
             this.Controls.Add(this.NUCREDS);
             this.Controls.Add(this.PicBox);
             this.Controls.Add(this.label4);
@@ -150,8 +165,10 @@
             this.Controls.Add(this.btnSpin);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "LuckySeven";
             this.Load += new System.EventHandler(this.Form1_Load);
+            this.Resize += new System.EventHandler(this.btnSpin_Click);
             ((System.ComponentModel.ISupportInitialize)(this.PicBox)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -168,6 +185,7 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.PictureBox PicBox;
         private System.Windows.Forms.Label NUCREDS;
+        private System.Windows.Forms.Label lblVi;
     }
 }
 

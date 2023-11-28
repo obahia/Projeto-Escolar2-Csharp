@@ -1,0 +1,16 @@
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Carrinho_de_Compras\Carrinho_de_Compras\bin\Debug\net6.0-windows\Carrinho_de_Compras.exe
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Carrinho_de_Compras\Carrinho_de_Compras\bin\Debug\net6.0-windows\Carrinho_de_Compras.deps.json
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Carrinho_de_Compras\Carrinho_de_Compras\bin\Debug\net6.0-windows\Carrinho_de_Compras.runtimeconfig.json
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Carrinho_de_Compras\Carrinho_de_Compras\bin\Debug\net6.0-windows\Carrinho_de_Compras.dll
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Carrinho_de_Compras\Carrinho_de_Compras\bin\Debug\net6.0-windows\Carrinho_de_Compras.pdb
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Carrinho_de_Compras\Carrinho_de_Compras\obj\Debug\net6.0-windows\Carrinho_de_Compras.Form1.resources
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Carrinho_de_Compras\Carrinho_de_Compras\obj\Debug\net6.0-windows\Carrinho_de_Compras.csproj.GenerateResource.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Carrinho_de_Compras\Carrinho_de_Compras\obj\Debug\net6.0-windows\Carrinho_de_Compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Carrinho_de_Compras\Carrinho_de_Compras\obj\Debug\net6.0-windows\Carrinho_de_Compras.AssemblyInfoInputs.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Carrinho_de_Compras\Carrinho_de_Compras\obj\Debug\net6.0-windows\Carrinho_de_Compras.AssemblyInfo.cs
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Carrinho_de_Compras\Carrinho_de_Compras\obj\Debug\net6.0-windows\Carrinho_de_Compras.csproj.CoreCompileInputs.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Carrinho_de_Compras\Carrinho_de_Compras\obj\Debug\net6.0-windows\Carrinho_de_Compras.dll
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Carrinho_de_Compras\Carrinho_de_Compras\obj\Debug\net6.0-windows\refint\Carrinho_de_Compras.dll
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Carrinho_de_Compras\Carrinho_de_Compras\obj\Debug\net6.0-windows\Carrinho_de_Compras.pdb
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Carrinho_de_Compras\Carrinho_de_Compras\obj\Debug\net6.0-windows\Carrinho_de_Compras.genruntimeconfig.cache
+C:\Users\53024\Documents\GitHub\Projeto-Escolar2-Csharp\Carrinho_de_Compras\Carrinho_de_Compras\obj\Debug\net6.0-windows\ref\Carrinho_de_Compras.dll
